@@ -4,6 +4,4 @@ def position_taken?(board, index)
     puts true
   else
     puts false
-
-board[index] == " "
 end
