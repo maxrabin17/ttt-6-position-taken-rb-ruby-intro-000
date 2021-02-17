@@ -7,4 +7,4 @@ def position_taken?(board, index)
   end
 end
 
-board[index] == " "
+
