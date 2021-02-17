@@ -4,4 +4,7 @@ def position_taken?(board, index)
     puts true
   else
     puts false
+  end
 end
+
+board[index] == " "
